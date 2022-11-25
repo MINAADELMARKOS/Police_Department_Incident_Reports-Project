@@ -31,3 +31,10 @@ Generating the world map is straigtforward in Folium. You simply create a Folium
 
 Let's install Folium
 Folium is not available by default. So, we first need to install it before we are able to import it.
+
+
+
+
+
+> <h3><b><span style="color:navy">DataSet :- </span><a href='https://drive.google.com/file/d/1-7Jlp1aIZYtsfyTwojbwfPOwHqNF3Z7a/view?usp=share_link
+'><b>Click HERE</b></a> </b></h3>
