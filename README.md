@@ -20,7 +20,7 @@ After completing this lab you will be able to:
 
 ## **Introduction to Folium**
 
-Folium is a powerful Python library that helps you create several types of Leaflet maps. The fact that the Folium results are interactive makes this library very useful for dashboard building.
+Folium is a strong Python library for creating many types of Leaflet maps. Because the Folium findings are interactive, this library is ideal for dashboard development.
 
 From the official Folium documentation page:
 
@@ -30,8 +30,8 @@ From the official Folium documentation page:
 
 *   The library has a number of built-in tilesets from OpenStreetMap, Mapbox, and Stamen, and supports custom tilesets with Mapbox or Cloudmade API keys. Folium supports both GeoJSON and TopoJSON overlays, as well as the binding of data to those overlays to create choropleth maps with color-brewer color schemes.
 
-Generating the world map is straigtforward in Folium. You simply create a Folium Map object and then you display it. What is attactive about Folium maps is that they are interactive, so you can zoom into any region of interest despite the initial zoom level.
+Folium makes it simple to create a globe map. You just construct and display a Folium Map object. Folium maps are appealing because they are interactive, allowing you to zoom into any location of interest regardless of the initial zoom level.
 
-Let's install Folium
-Folium is not available by default. So, we first need to install it before we are able to import it.
+Let's get started. Folium
+Folium is not included by default. So, before we can import it, we must first install it.
 
